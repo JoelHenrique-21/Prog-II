@@ -61,7 +61,7 @@ class ConversorMoeda {
     }
 }
 
-public class ConversorUnidadesMoedas {
+public class ConversorUnidades {
     public static void main(String[] args) {
         ConversorTemperatura temp = new ConversorTemperatura();
         ConversorComprimento comp = new ConversorComprimento();
